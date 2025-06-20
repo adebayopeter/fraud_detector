@@ -1,6 +1,20 @@
+![Dockerized](https://img.shields.io/badge/Dockerized-%E2%9C%85-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-%F0%9F%94%A5-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker--Compose-2496ED?logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # 🕵️‍♂️ Fraud Detection API + Streamlit Dashboard
 
 This project is a fully containerized machine learning pipeline for real-time credit card fraud detection. It combines a PyTorch model served via FastAPI with a sleek Streamlit UI, all orchestrated using Docker Compose.
+
+## 🎥 Preview
+
+![Streamlit App Screenshot](assets/streamlit_ui.png)
 
 ## 📚 Table of Contents
 
@@ -171,7 +185,7 @@ Response:
 ---
 
 ## 📃 License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE)file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 Pull requests are welcome! Feel free to fork this project, improve styling, add new features, or explore deployment integrations (e.g., Render, Azure, or Railway).
