@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Model files (if large)
+# *.pt
+# *.pth
+# *.pkl
+
+# dataset (if large)
+data/creditcard.csv
+
+# hide test file for running test
+test.py
+
+# Secrets
+.env
+*.db
+*.sqlite3
+
+# Docker
+*.log
+*.pid
+
+# System files
+.DS_Store
+.ipynb_checkpoints
+
+.idea/

@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+torch
+imbalanced-learn
+uvicorn[standard]
+fastapi
+SQLPyHelper
+pydantic
+joblib
+python-dotenv
+streamlit
+requests
